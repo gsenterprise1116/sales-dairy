@@ -1,0 +1,5 @@
+{
+  "name": "Sales Dairy",
+  "description": "A mobile app for salespeople to save customer visit details, get reminders, and manage tasks, designed to work offline. Your visit, your success.",
+  "requestFramePermissions": []
+}
